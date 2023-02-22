@@ -3,16 +3,14 @@
 # Road Map
 
 <details>
-  <summary>AWS FOUNDATIONS(CLOUD PRACTITIONER)</summary>
-  
-  ### Module 1: Cloud Concepts Overview
  <details>
-  <summary>AWS FOUNDATIONS(CLOUD PRACTITIONER)</summary>
-  
-  ### Module 1: Cloud Concepts Overview
-  1. Intoduction to cloud computing 
-  2. Advantages of cloud computing
-     * Advantages of cloud computing
-     * Advantages of cloud computing
+     <summary>### AWS FOUNDATIONS(CLOUD PRACTITIONER)</summary>
+  1. Module 1: Cloud Concepts Overview
+</details>
+   <details>
+       <summary>### AWS Cloud Architecting(CLOUD ASSOCIATE)</summary>
+            <summary>### AWS Cloud Architecting(CLOUD ASSOCIATE)</summary>
+
+  1. Module 1: Welcome to AWS Academy Cloud Architecting
 </details>
 </details>

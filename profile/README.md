@@ -16,3 +16,11 @@
   - Roles in Cloud computing
  </details>
 </details>
+
+
+
+
+
+# Resources 
+
+- https://github.com/MichaelCade/90DaysOfDevOps

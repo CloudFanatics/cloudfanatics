@@ -1,16 +1,17 @@
 # Cloud Fanatics
 
-# Road Map
+# AWS ACADEMY OUTLINE</summary>
+ <details>
+  <summary>AWS FOUNDATIONS(CLOUD PRACTITIONER)</summary>
+ <details>
+  <summary> 1. Module 1: Cloud Concepts Overview</summary>
+ </details>
+</details>
+
 
 <details>
+ <summary>AWS Cloud Architecting(CLOUD ASSOCIATE)</summary>
  <details>
-     <summary>### AWS FOUNDATIONS(CLOUD PRACTITIONER)</summary>
-  1. Module 1: Cloud Concepts Overview
-</details>
-   <details>
-       <summary>### AWS Cloud Architecting(CLOUD ASSOCIATE)</summary>
-            <summary>### AWS Cloud Architecting(CLOUD ASSOCIATE)</summary>
-
-  1. Module 1: Welcome to AWS Academy Cloud Architecting
-</details>
+  <summary>Module 1: Welcome to AWS Academy Cloud Architecting</summary>
+ </details>
 </details>

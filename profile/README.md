@@ -24,3 +24,4 @@
 # Resources 
 
 - https://github.com/MichaelCade/90DaysOfDevOps
+- https://bitter-rhinoceros-4ee.notion.site/AWS-ACADEMY-OUTLINE-52a1b3b67e894b748d9054b4202e1630
